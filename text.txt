@@ -1,0 +1,4 @@
+Arrays
+Array: collection of fixed number of components (elements), wherein all of components have same data type.
+One-dimensional array: array in which components are arranged in list form.
+Multi-dimensional array: array in which components are arranged in tabular form (not covered)
