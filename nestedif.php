@@ -1,6 +1,6 @@
 <?php  
-    $age = 23;
-    echo "siddhant"."\n";  
+    $age = 18;
+    echo "siddhant<br>";  
     $nationality = "Indian";   
     if ($nationality == "Indian")  
     {  

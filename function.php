@@ -1,8 +1,16 @@
-<?php  
-function sum($a,$b)
+<?php
+
+function greetings($festival = "Life")
 {
-    $sum = $a + $b;
-    echo $sum;
-} 
-sum(101," 5 days");
+    echo "Wish you a happy $festival";
+}
+echo "siddhant<br>";
+echo "Hey rahul <br/>";
+greetings("holi");
+
+echo "<br/>";
+echo "Hey Jon <br/>";
+
+greetings();
+
 ?>
